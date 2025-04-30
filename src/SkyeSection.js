@@ -1,1 +1,0 @@
-export default function SkyeSection() { return <section><h2>Skye</h2><p>[Skye content]</p></section>; }
