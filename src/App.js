@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import ScotlandGuide from './ScotlandGuide';
 
 function App() {
