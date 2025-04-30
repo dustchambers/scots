@@ -1,5 +1,6 @@
 import React from 'react';
 import ScotlandGuide from './ScotlandGuide';
+import './App.css';
 
 function App() {
   return (
