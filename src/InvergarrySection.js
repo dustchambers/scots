@@ -1,1 +1,0 @@
-export default function InvergarrySection() { return <section><h2>Invergarry</h2><p>[Invergarry content]</p></section>; }
