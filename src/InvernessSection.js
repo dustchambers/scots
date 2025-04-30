@@ -1,1 +1,0 @@
-export default function InvernessSection() { return <section><h2>Inverness</h2><p>[Inverness content]</p></section>; }
