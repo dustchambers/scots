@@ -1,1 +1,0 @@
-export default function BalmoralSection() { return <section><h2>Balmoral</h2><p>[Balmoral content]</p></section>; }
